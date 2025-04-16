@@ -137,7 +137,4 @@
   - 数据分析和预测
 
 ### 4.4 配置
-
-- VITE_SUPABASE_URL=https://smbksxmlfxfiohahdeqv.supabase.co
-- VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNtYmtzeG1sZnhmaW9oYWhkZXF2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQzODA3MjQsImV4cCI6MjA1OTk1NjcyNH0.9bpNQPeMdzvlnUT0yvWscr4rwfbWxOiHa4tUNhDQhVQ
-- VITE_DEEPSEEK_API_KEY=sk-e112a65366474a46b49601d33953aee0
+- VITE_SUPABASE_URL=https://smbksxmlfxfiohahdeqv.supabase.co-
