@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 左侧拼图块（蓝色） -->
+  <path d="M4 8C4 5.79086 5.79086 4 8 4H16V12C16 14.2091 14.2091 16 12 16H4V8Z" fill="#1677ff"/>
+  
+  <!-- 右侧拼图块（绿色） -->
+  <path d="M28 24C28 26.2091 26.2091 28 24 28H16V20C16 17.7909 17.7909 16 20 16H28V24Z" fill="#52c41a"/>
+  
+  <!-- 装饰性圆点 -->
+  <circle cx="10" cy="10" r="2" fill="white"/>
+  <circle cx="22" cy="22" r="2" fill="white"/>
+</svg> 
